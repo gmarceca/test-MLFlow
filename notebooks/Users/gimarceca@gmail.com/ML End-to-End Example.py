@@ -53,6 +53,7 @@
 # The generated code, including the required edits described in the previous cell, is shown here for reference.
 
 import pandas as pd
+import numpy as np
 
 white_wine = pd.read_csv("/dbfs/FileStore/shared_uploads/gimarceca@gmail.com/winequality_white-1.csv", sep=';')
 red_wine = pd.read_csv("/dbfs/FileStore/shared_uploads/gimarceca@gmail.com/winequality_red.csv", sep=';')
