@@ -26,6 +26,11 @@
 
 # COMMAND ----------
 
+# MAGIC %md
+# MAGIC # Add this comment
+
+# COMMAND ----------
+
 # MAGIC %md ## Import data
 # MAGIC   
 # MAGIC In this section, you download a dataset from the web and upload it to Databricks File System (DBFS).
