@@ -54,6 +54,7 @@
 
 import pandas as pd
 import numpy as np
+import glob
 
 white_wine = pd.read_csv("/dbfs/FileStore/shared_uploads/gimarceca@gmail.com/winequality_white-1.csv", sep=';')
 red_wine = pd.read_csv("/dbfs/FileStore/shared_uploads/gimarceca@gmail.com/winequality_red.csv", sep=';')
